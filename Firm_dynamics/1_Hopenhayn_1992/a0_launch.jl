@@ -1,5 +1,5 @@
 """
-Author: João Oliveira
+João Oliveira (2024)
 
 Replicates Hopenhayn (1992) which finds the stationary equilibrium in a firm dynamics model. I follow the 
 algorithm laid out by Gianluca Violante's and Chris Edmond's notes where I solve the incumbant firm problem with value 
